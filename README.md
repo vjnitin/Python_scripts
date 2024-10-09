@@ -1,2 +1,2 @@
 # test_1
-This is my first repository
+This repository is created to post my python scripts
